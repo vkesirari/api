@@ -1,0 +1,201 @@
+.infinite-footer-wrapper {
+    background-color: #105b8b;
+    color: white !important;
+}
+.infinite-footer-wrapper a {
+	color: white !important;
+}
+.infinite-footer-wrapper p {
+	text-align: center;
+	font-size: 14px; 
+}
+
+.page-id-216 .gdlr-core-blog-grid .gdlr-core-excerpt-read-more {
+    display: inline-block;
+	  margin-top: 20px;
+}
+/*26/12*/
+@media only screen and (max-width: 767px) {
+	.page-id-1361 .communitypartner ul li{
+		list-style-type: none;
+		margin-left: -30px;
+		font-size: 16px;
+	}
+.page-id-244 .gdlr-core-pbf-column-content-margin {
+		margin-bottom: 0px !important;
+	}
+	
+	.newsblog {
+    margin: 25px auto 0px;
+}
+	
+.page-id-13 .gdlr-core-pbf-wrapper-container img  {
+display: none !important;
+  }
+.tiles { 
+width: auto !important;
+margin-top: 40px !important; 
+	}
+	
+.infinite-copyright-container {
+    padding-bottom: 15px !important;
+		padding-top: 15px !important;
+}
+.tiles .gdlr-core-title-item .gdlr-core-title-item-title{
+		margin-left: 0 !important;
+	}
+.discovertext p {
+    margin-bottom: 70px;
+}
+.gdlr-core-pbf-column-content-margin {
+		padding-bottom: 0px !important;
+	}
+.gdlr-core-text-box-item-content{
+		font-size: 16px !important;
+	}
+	#properties a{
+		font-size: 18px;
+	}
+	#properties .gdlr-core-blog-content{
+		font-size: 16px;
+	}	
+	#properties .gdlr-core-button {
+		font-size: 16px;
+	}
+.contactustext .gdlr-core-columnize-item-content.gdlr-core-skin-divider {
+    display: inline;
+}
+	.contactustext {
+    margin: 0px 0px;
+}
+	/* 30/vix*/
+	.page-id-91 #availproperties .gdlr-core-title-item .gdlr-core-title-item-title {
+		padding-top: 15px;
+	}
+	.page-id-151 .gdlr-core-title-item-title-wrap  {
+		padding-top: 12px;
+	}
+	.page-id-175 .gdlr-core-title-item .gdlr-core-title-item-title-wrap {
+
+    padding-top: 20px;
+}
+	
+.page-id-175  .gdlr-core-blog-thumbnail img {
+    padding-top: 40px;
+}
+.page-id-175 .devprop p{
+		 font-size: inherit;
+	}
+.page-id-1361 .communitypartner p {
+    font-size: 16px ;
+}
+	.page-id-1361 .hind h2 {
+    font-size: 30px !important;
+}
+.page-id-1361	.communitypartner h3 {
+		font-size: 25px;
+	}
+		
+}
+.page-id-13 .gdlr-core-page-builder-body img{
+	    width: 350px;
+}
+/* 24/vix*/
+#formid{
+    background: #309cea;
+		margin-top: 20px;
+	cursor: pointer;
+    border-radius: 30px;
+		border: none;
+    width: auto;
+    height: auto;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+		letter-spacing: 0.8px;
+    font-weight: bold;
+		padding: 15px 40px;
+}
+.gdlr-core-title-item .gdlr-core-title-item-title{
+	 	margin-left: 0px;
+    margin-top: 0px;
+}
+#availproperties .gdlr-core-js {
+	    margin: 0px !important;
+    	padding: 0px !important;
+}
+#availproperties .gdlr-core-item-pdlr{
+	margin-bottom:0px;
+}
+#propdetails {
+	padding-top:40px;
+}
+
+body.page-id-151 .gdlr-core-pbf-wrapper-container .gdlr-core-pbf-element .gdlr-core-text-box-item{
+	padding-top: 90px;
+}
+
+body.page-id-175 .gdlr-core-pbf-wrapper-container .gdlr-core-pbf-element .gdlr-core-text-box-item{
+	padding-top: 40px;
+}
+#properties .gdlr-core-button{
+	font-size:25px !important;
+}
+.communitypartner p {
+    font-size: 18.696px;
+    font-family: "Source Sans Pro", sans-serif;
+    color: rgb(1, 38, 62);
+    font-weight: 550;
+}
+.gdlr-core-text-box-item-content p{
+/* 	font-size: 18.696px; */
+    font-family: "Open Sans", sans-serif;
+/*     font-weight: 550; */
+}
+label.gfield_label {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #000305 ;
+}
+
+.gform_wrapper form{
+	  padding-left: 10px;
+    padding-right: 10px;
+}
+#sgpb-popup-dialog-main-div{
+	width : 671px !important ;
+}
+.gform_wrapper ul.gform_fields:not(.top_label) .gfield_label{
+		padding-right: 0px !important; 
+    margin-bottom: 0px !important;
+}
+#gform_submit_button_2 {
+    border-radius: 32px;
+	cursor: pointer;
+    background-color: #309cea;
+		width: auto;
+	font-size: 18px !important;
+		text-align: center;
+	    font-family: "Source Sans Pro", sans-serif !important;
+		color: white; 
+		font-weight: bold;
+		letter-spacing: 0.8px; 
+}
+#gform_1 input[type="text"], #gform_1 input[type="email"], #gform_1 textarea, #gform_3 input[type="text"], #gform_3 input[type="email"], #gform_3 textarea{
+	border-color: #d7d7d7;
+}
+#gform_submit_button_1{
+	cursor: pointer;
+	background: #309cea !important;
+	border-radius: 32px;
+	    font-family: "Source Sans Pro", sans-serif !important;
+	border: none;
+	text-align: center; 
+	color: white !important; 
+	font-size: 18px !important; 	
+	letter-spacing: 0.8px; 
+	font-weight: bold !important;
+}
+.gdlr-core-blog-grid-content-wrap .gdlr-core-skin-title a {
+	color:#105b8b;
+	
+}
